@@ -6,6 +6,7 @@
 * Changing photo or giphy into cartoon style images
 * Google Colab is used
 * Tensorflow is used
+* Programming Language - Python
 ___________________________________________________________________________________________
 ## Environment Setup
 

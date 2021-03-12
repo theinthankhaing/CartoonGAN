@@ -21,6 +21,8 @@ ________________________________________________________________________________
 
 ![giphy](https://user-images.githubusercontent.com/50255936/110829676-5aeb1c00-82d3-11eb-8e64-b2419a7ab72c.gif)
 
+## Result
+
 ## Hosoda Style
 
 ![hosoda](https://user-images.githubusercontent.com/50255936/110829848-88d06080-82d3-11eb-893e-ae389c3021a6.gif)
